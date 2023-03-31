@@ -1,4 +1,4 @@
-package com.sort;
+package com.example;
 
 import org.json.simple.*;
 
@@ -8,7 +8,8 @@ public class BubbleSort {
 
   public static void main(String[] args) {
     String fileName =
-      "/Users/jerom/Documents/GitHub/class-java/sort/demo/src/main/java/com/sort/cupcake_3906.json";
+    "/Users/saket/Documents/GitHub/Lovelace-Cupcakes/demo/src/main/java/com/sort/cupcake_3906.json";
+      
     // String fileName =
     //   "/Users/jerom/Documents/GitHub/class-java/sort/demo/src/main/java/com/sort/cupcake_10.json";
 
